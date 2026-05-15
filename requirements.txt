@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+plotly
+nltk
+textblob
+vaderSentiment
+gensim
+scikit-learn
+wordcloud
+matplotlib
